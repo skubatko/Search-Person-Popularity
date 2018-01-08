@@ -1,2 +1,3 @@
 # Search-Person-Popularity
-Подсчёт количества упоминаний какого-либо человека в новостях
+
+Person references calculation on Web-news w/usage of crawler
